@@ -28,9 +28,9 @@ The output frequency is:
 Output Frequency = Input Clock Frequency / (2 × N)
 
 where:
-Output Frequency: Frequency of the generated output signal.
-Input Clock Frequency: Frequency of the input clock.
-N: 4-bit programmable division value (1–15).
+- Output Frequency: Frequency of the generated output signal.
+- Input Clock Frequency: Frequency of the input clock.
+- N: 4-bit programmable division value (1–15).
 
 ## RTL Schematic
 
