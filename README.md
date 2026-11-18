@@ -25,14 +25,12 @@ The frequency divider uses a 4-bit counter to count the positive edges of the in
 
 The output frequency is:
 
-\[
-f_{out}=\frac{f_{clk}}{2N}
-\]
+Output Frequency = Input Clock Frequency / (2 × N)
 
 where:
-- \(f_{out}\) = Output frequency
-- \(f_{clk}\) = Input clock frequency
-- \(N\) = 4-bit programmable division value
+Output Frequency: Frequency of the generated output signal.
+Input Clock Frequency: Frequency of the input clock.
+N: 4-bit programmable division value (1–15).
 
 ## RTL Schematic
 
