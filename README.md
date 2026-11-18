@@ -26,7 +26,7 @@ The frequency divider uses a 4-bit counter to count the positive edges of the in
 The output frequency is:
 
 \[
-f_{out} = \frac{f_{clk}}{2N}
+f_{out}=\frac{f_{clk}}{2N}
 \]
 
 where:
